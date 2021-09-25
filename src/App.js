@@ -60,7 +60,7 @@ const App = () => {
                     <button onClick={()=>deleteHandler(index)}>Delete</button>
                   </>
                 ))  
-              }
+              };
               
       
       </center>
