@@ -11,9 +11,7 @@ const App = () => {
    });
 
   const [todos,setTodos] = useState([{
-  //   username:"",
-  //  email:"",
-  //  phonenumber:""
+  
   }]);
   const changeHandler = e =>{
     // setTask(e.target.value)
